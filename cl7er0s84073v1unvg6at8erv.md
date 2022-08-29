@@ -72,4 +72,4 @@ I'm learning a lot from LINE and still keep learning continuously from endless c
 Get to know me:
 - [GitHub](https://github.com/notsu)
 - [Linkedin](https://www.linkedin.com/in/notsu/)
-
+- [Twitter](https://twitter.com/notsu)
